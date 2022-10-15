@@ -1,2 +1,2 @@
 # portfolio
-https://HichamAtanane.github.io/portfolio/
+https://HichamAtanane.github.io/
